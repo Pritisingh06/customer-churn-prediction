@@ -1,5 +1,5 @@
-📉 Customer Churn Prediction: End-to-End Machine Learning Project
-
+**📉 Customer Churn Prediction: End-to-End Machine Learning Project
+**
 Predicts which telecom customers are likely to cancel their service, so a business can target retention offers before they leave. Covers data cleaning, feature engineering, model comparison, hyperparameter tuning, threshold optimisation, explainability and a Streamlit app.
 
 Tech stack: Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Streamlit
@@ -62,10 +62,6 @@ Choosing the decision threshold changes the business outcome far more than the c
 Contract type and customer tenure are the strongest signals of churn, so retention efforts could focus on these segments.
 🚀 How to Run
 bash
-# 1. Clone the repo
-git clone https://github.com/Pritisingh06/customer-churn-prediction.git
-cd customer-churn-prediction
-
 # 2. Install dependencies
 pip install -r requirements.txt
 
